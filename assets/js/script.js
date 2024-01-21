@@ -1,4 +1,4 @@
-console.log("Message")
+console.log("Welcome. How is your day going?")
 
 // Active state for navigation links
 const onPage = window.location.pathname;  
