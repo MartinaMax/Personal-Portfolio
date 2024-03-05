@@ -73,11 +73,10 @@
   
 .scrollable {
     flex: 1;
-    display: flexbox;
+    display: grid;
     overflow-y: auto;
     background-color: var(--darkGrey);
     padding: 20px;
-    align-items: center;
     object-fit: fill;
 }
 
@@ -139,4 +138,9 @@
     font-family: 'Space Grotesk', sans-serif;
 }
 
+/* Casestudy3 */
+.mockup-img {
+    width: 280px;
+    justify-self: center;
+}
    
